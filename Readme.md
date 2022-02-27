@@ -4,11 +4,20 @@
 
 # Steps
 
-  : Basic structure of a Flutter App
-
-    Simple Open Name
-
-
-
-
-  :  Architecture
+  > Basic structure of a Flutter App
+    Mobile View
+    -
+    -
+    -
+    -
+    -
+    -
+    Web View
+    -
+    -
+    -
+    -
+    -
+    -
+    
+  >  Architecture
